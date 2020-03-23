@@ -1,0 +1,19 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+.pin-dot {
+  height: 14px;
+  width: 14px;
+  margin: 0 8px;
+  border-radius: 50%;
+  display: inline-block;
+
+  &.off {
+    border: 1px solid #ffffff;
+  }
+
+  &.on {
+    background-color: white;
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "smart",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

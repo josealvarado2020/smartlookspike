@@ -1,0 +1,8 @@
+{
+  "appId": "com.cashconverters.smart",
+  "appName": "smart",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
